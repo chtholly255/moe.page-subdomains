@@ -1,0 +1,13 @@
+{
+  "owner": {
+    "username": "github-actions-test",
+    "email": "test@moe.page"
+  },
+  "domain": "secondrecord",
+  "records": {
+    "TXT": [
+      "Meow! This is the first successful merge test! It works! 🎉"
+    ]
+  },
+  "proxied": false
+}
