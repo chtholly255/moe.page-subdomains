@@ -1,0 +1,13 @@
+{
+    "owner": {
+      "username": "1zkn",
+      "email": "kevin@zkn.app"
+    },
+    "domain": "nic", 
+    "records": {
+      "TXT": [ 
+        "hello world"
+      ]
+    },
+    "proxied": false 
+  }
