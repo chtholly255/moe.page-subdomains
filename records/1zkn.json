@@ -6,7 +6,7 @@
     "domain": "nic", 
     "records": {
       "TXT": [ 
-        "hello world"
+        "hello world！"
       ]
     },
     "proxied": false 
