@@ -1,13 +1,14 @@
 {
-    "owner": {
-      "username": "1zkn",
-      "email": "kevin@zkn.app"
-    },
-    "domain": "nic", 
-    "records": {
-      "TXT": [ 
-        "hello world！"
-      ]
-    },
-    "proxied": false 
-  }
+  "owner": {
+    "username": "1zkn",
+    "email": "kevin@zkn.app"
+  },
+  "domain": "nic", 
+  "records": {
+    "CNAME": "testcname.nahida.one",
+    "TXT": [
+      "Hello world!"
+    ]
+  },
+  "proxied": true 
+}
