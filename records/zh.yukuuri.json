@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "Love-Kogasa",
+    "email": "1983997053@qq.com"
+  },
+  "domain": "zh.yukuuri",
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  },
+  "proxied": false
+}
