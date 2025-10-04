@@ -1,0 +1,11 @@
+{
+  "owner": {
+    "username": "chtholly255",
+    "email": "ZhangYaoan2008@outlook.com"
+  },
+  "domain": "uint8",
+  "records": {
+    "CNAME": "chtholly255.github.io"
+  },
+  "proxied": false
+}
